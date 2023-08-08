@@ -1,11 +1,6 @@
 
-Group - 05  
-Project Name - Pawdoption
+#Pawdoption
 
-Group Members:
+Android application built using Kotlin, to allows shelters to list the stray dogs in the app.
+So, people can see the pets in the list and adopt the pet from those shelter.
 
-Aditya Mahale – B00867619  
-Khushalkumar Maganbhai Gondaliya – B00912092  
-Kishan Mahendrabhai Savaliya - B00896729  
-Navya Jayapal -B00886554  
-Vatsal Yadav – B00893030
